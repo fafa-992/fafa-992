@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Languages :
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" aling="left" alt="Python" width="26px" style="padding-right:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" aling="left" alt="C#" width="26px" style="padding-right:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" aling="left" alt="Java" width="26px" style="padding-right:10px;" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" aling="left" alt="JavaScript" width="26px" style="padding-right:10px;" />
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" aling="left" alt="Python" width="26px" style="padding-right:10px;" />]
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" aling="left" alt="C#" width="26px" style="padding-right:10px;" />]
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" aling="left" alt="Java" width="26px" style="padding-right:10px;" />]
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" aling="left" alt="JavaScript" width="26px" style="padding-right:10px;" />]
